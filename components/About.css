@@ -1,0 +1,72 @@
+.about-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .image-section img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .info-section {
+    flex: 1;
+    padding: 0 20px;
+  }
+  
+  .info-heading {
+    font-weight: bold;
+    color: green;
+  }
+  
+  .info-paragraph {
+    font-size: 16px;
+  }
+ /* Other styles you might have */
+
+.personals {
+    color: green;
+    font-weight: bold;
+   
+    margin-bottom: 10px;
+  }
+  
+  .text1 {
+    font-size: 20px;
+    color: black;
+    margin-bottom: 18px;
+  }
+  
+  .education {
+    margin-top: 20px;
+  }
+  
+  .education-heading {
+    
+    font-weight: bold;
+    color: green;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .education-list {
+    list-style: none;
+    color: blue;
+    padding-left: 0;
+    margin: 0;
+    font-size: 20px;
+    
+  }
+  
+  .education-list li {
+    font-size: 16px;
+    color: black;
+    margin-bottom: 10px;
+  }
+  .eduimg
+  {
+    /* border-radius: 80rem; */
+    width: 20%;
+    height: auto;
+  }
